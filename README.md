@@ -11,3 +11,5 @@ Tasks App written in React
 </h3>
 
 <p align="center"><img src="pic/screenshot.png" width="350px"></p>
+
+# `HAPPY CODING !!! :)`
