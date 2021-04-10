@@ -1,6 +1,3 @@
-# React-Tasks
-Tasks App written in React
-
 <p align="center"><img src="pic/tasks.png" width="350px"></p>
 
 <h1 align="center">
