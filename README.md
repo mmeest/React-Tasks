@@ -9,6 +9,6 @@
 
 <p align="center"><img src="pic/screenshot.png" width="350px"></p>
 
-<div align="center">
+
 # `HAPPY CODING !!! :)`
-</div>
+
